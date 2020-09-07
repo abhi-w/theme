@@ -92,7 +92,54 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/6208288?v=4",
       "profile": "https://github.com/dgnicholson",
       "contributions": [
-        "design"
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "msfjarvis",
+      "name": "Harsh Shandilya",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13348378?v=4",
+      "profile": "https://msfjarvis.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ProfessorLogout",
+      "name": "Marco Kamner",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13572444?v=4",
+      "profile": "https://twitter.com/ProfessorLogout",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ewenme",
+      "name": "ewen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10872821?v=4",
+      "profile": "https://ewen.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SanchithHegde",
+      "name": "Sanchith Hegde",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22217505?v=4",
+      "profile": "https://github.com/SanchithHegde",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "CER10TY",
+      "name": "Sören Johanson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5760400?v=4",
+      "profile": "https://soeren.codes",
+      "contributions": [
+        "code"
       ]
     }
   ],

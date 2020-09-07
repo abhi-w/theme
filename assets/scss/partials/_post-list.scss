@@ -1,6 +1,3 @@
-@import "colors";
-@import "vars";
-
 .post-list__container {
   margin: 0 auto;
   max-width: 1200px;
@@ -26,12 +23,16 @@
   font-weight: 500;
 
   a {
-    color: $black;
+    @include theme() {
+      color: theme-get('text');
+    }
     text-decoration: none;
   }
 }
 
 .post__date {
-  color: $grey;
+  @include theme() {
+    color: theme-get('neutral');
+  }
   font-size: 0.8rem;
 }
